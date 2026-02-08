@@ -84,7 +84,7 @@ const CONFIG = {
     },
     {
       title_1: 'Swift',
-      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000021_92_141.jp9',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000021_92_141.jpg',
       color_1: '#eb6840',
       title_2: 'Principle',
       img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000022_93_141.jpg',
