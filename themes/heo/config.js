@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'XIAOGOUANUO.BLOG',
   HEO_HERO_TITLE_4: '你发现了隐藏据点',
   HEO_HERO_TITLE_5: 'Puppy✖️Furry✖️杂食读者',
-  HEO_HERO_TITLE_LINK: 'https://xiaogouanuo.blog',
+  HEO_HERO_TITLE_LINK: 'https://www.xiaogouanuo.blog/me',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '伸爪～汪！',
 
@@ -51,9 +51,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://xiaogouanuo.blog',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://xiaogouanuo.blog',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '握爪爪',
   HEO_SOCIAL_CARD_TITLE_2: '留下你的气味标记',
   HEO_SOCIAL_CARD_TITLE_3: '看看都在说什么',
-  HEO_SOCIAL_CARD_URL: 'https://irradiated-moonflower-15e.notion.site/30103232579a80b8aa1cfe13fc3aa1bf?source=copy_link',
+  HEO_SOCIAL_CARD_URL: 'https://www.xiaogouanuo.blog/answer',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
