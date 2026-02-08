@@ -103,7 +103,7 @@ const CONFIG = {
       img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000026_96_141.jpg',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000028_97-141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000028_97_141.jpg',
       color_2: '#e9572b'
     },
     {
