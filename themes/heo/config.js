@@ -38,7 +38,7 @@ const CONFIG = {
   //   HERO_RECOMMEND_COVER: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/IMG_20260517_172355.jpg', // 英雄区右侧图片
   
   // 英雄区右侧推荐文章遮罩控制
-  HEO_HERO_RECOMMEND_COVER_ENABLE: true, // 是否显示推荐文章遮罩图片，true显示遮罩需点击查看，false直接显示推荐文章
+  HEO_HERO_RECOMMEND_COVER_ENABLE:false, // 是否显示推荐文章遮罩图片，true显示遮罩需点击查看，false直接显示推荐文章
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
@@ -63,58 +63,58 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000015_86_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000015_86_141.jpg',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000016_87_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000016_87_141.jpg',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000017_88_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000017_88_141.jpg',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000018_89_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000018_89_141.jpg',
       color_2: '#4082c3'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000019_90_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000019_90_141.jpg',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000020_91_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000020_91_141.jpg',
       color_2: '#ffffff'
     },
     {
       title_1: 'Swift',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000021_92_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000021_92_141.jpg',
       color_1: '#eb6840',
       title_2: 'Principle',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000022_93_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000022_93_141.jpg',
       color_2: '#8f55ba'
     },
     {
       title_1: 'illustrator',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000023_94_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000023_94_141.jpg',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000025_95_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000025_95_141.jpg',
       color_2: '#2c51db'
     },
     {
       title_1: 'JS',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000026_96_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000026_96_141.jpg',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000028_97_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000028_97_141.jpg',
       color_2: '#e9572b'
     },
     {
       title_1: 'Git',
-      img_1: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000029_98_141.jpg',
+      img_1: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000029_98_141.jpg',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000030_99_141.jpg',
+      img_2: 'https://raw.githubusercontent.com/Arnotto/picture/refs/heads/essay/微信图片_20260209000030_99_141.jpg',
       color_2: '#1f1f1f'
     }
   ],
